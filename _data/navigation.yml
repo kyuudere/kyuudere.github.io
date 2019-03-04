@@ -18,6 +18,10 @@
     url: "/archives/manga/"
   - title: "Film"
     url: "/archives/film/"
+  - title: "Reviews"
+    url: "/archives/reviews/"
+  - title: "Translation"
+    url: "/archives/translation/"
 
 - title: "Support"
   url: "/support/"
