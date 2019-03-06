@@ -9,12 +9,12 @@ header:
   image_fullwidth: sakuga_pig.jpg
 widget1:
   title: "About"
-  url: 'http://kyuudere.github.io/about/'
+  url: 'http://kyuudere.github.io/'
   image: kyuu.jpg
-  text: 'Click here to know about me.'
+  text: 'Click here to know see my profile.'
 widget2:
   title: "Archive"
-  url: 'http://kyuudere.github.io/feeling-responsive/archives/'
+  url: 'http://kyuudere.github.io/archives/'
   image: kyuu.jpg
   text: '<em>Sakyuuga Memo</em> archives:<br/>1. Anime.<br/>2. Manga.<br/>3. Film.<br/>4. Reviews.<br/>5. Translation.' 
   #'<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
@@ -46,10 +46,3 @@ widget3:
 #
 homepage: true
 ---
-
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
