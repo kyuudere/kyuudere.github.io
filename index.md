@@ -10,7 +10,7 @@ header:
 widget1:
   title: "About"
   url: 'http://kyuudere.github.io/'
-  image: kyuu.jpg
+  image: rsz_kyuu.jpg
   text: 'Click here to know see my profile.'
 widget2:
   title: "Archive"
